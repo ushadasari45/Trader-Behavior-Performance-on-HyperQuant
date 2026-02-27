@@ -101,5 +101,5 @@ from Kaggle. Download them from the links below and place in the project folder:
 - [Stock Tweets Dataset — Kaggle](https://www.kaggle.com)
 
 ## 👤 Author
-**[Your Name]**  
-Data Science Analytics Intern Assignment — Round 2
+**[usha]**  
+Data Science Analytics Intern Assignment 
